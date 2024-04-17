@@ -6,7 +6,17 @@ img{
 }
 
 body{
-  padding: 20px;
+  padding: 40px;
+}
+
+h5{
+  font-weight: bold;
+  text-align: center;
+}
+
+h6{
+  font-weight: 450;
+  text-align: center;
 }
 
 .main-image{
@@ -23,8 +33,15 @@ body{
   border-radius: 20px;
 }
 
+.container-fluid{
+  margin-right: 300px;
+}
+
 .navbar{
   background-color: #8A2BE1;
+  padding-left: 400px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 .navbar-brand,
